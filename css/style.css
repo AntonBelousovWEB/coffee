@@ -34,19 +34,19 @@ img{vertical-align: top;}
 
 @font-face {
     font-family: CedarvilleCursive;
-    src: url(/fonts/CedarvilleCursive-Regular.ttf);
+    src: url(/coffee/fonts/CedarvilleCursive-Regular.ttf);
 }
 @font-face {
     font-family: JosefinSans;
-    src: url(/fonts/JosefinSans-VariableFont_wght.ttf);
+    src: url(/coffee/fonts/JosefinSans-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: GeorgeRound;
-    src: url(/fonts/GeorgeRoundedRegular.ttf);
+    src: url(/coffee/fonts/GeorgeRoundedRegular.ttf);
 }
 @font-face {
     font-family: Aleg;
-    src: url(/fonts/AlegreyaSans-Regular.ttf);
+    src: url(/coffee/fonts/AlegreyaSans-Regular.ttf);
 }
 body {
     background-color: #FFFFFF;
@@ -70,7 +70,7 @@ header {
     line-height: 61px;
 }
 .nav li {
-    background: url("/image/logo.png") 0 10px no-repeat;
+    background: url("/coffee/image/logo.png") 0 10px no-repeat;
     padding: 0 0 0 66px;
     
 }
@@ -350,7 +350,7 @@ header {
 .square5 {
     width: 646px;
     height: 351px;
-    background-image: url(/image/map.png);
+    background-image: url(/coffee/image/map.png);
 }
 .title__img {
     font-family: CedarvilleCursive;
@@ -364,7 +364,7 @@ header {
 .title__map {
     font-size: 32px;
     font-family: JosefinSans;
-    background: url("/image/Line.png") 0 13px no-repeat;
+    background: url("/coffee/image/Line.png") 0 13px no-repeat;
     padding: 0 0 0 132px;
     padding-bottom: 21px;
 }
